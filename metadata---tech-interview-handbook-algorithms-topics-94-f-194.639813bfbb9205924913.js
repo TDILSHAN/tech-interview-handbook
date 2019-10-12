@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{126:function(t){t.exports=JSON.parse('{"id":"algorithms/topics","title":"Topics","description":"## Arrays","source":"@site/../contents/algorithms/topics.md","permalink":"/tech-interview-handbook/algorithms/topics","lastUpdatedAt":1563155561}')}}]);
